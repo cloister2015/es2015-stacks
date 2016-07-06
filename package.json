@@ -4,8 +4,8 @@
   "description": "es2015 stack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "webpack": "./node_modules/.bin/webpack"
+    "test": "./node_modules/.bin/karma start",
+    "build": "./node_modules/.bin/webpack --progress"
   },
   "repository": {
     "type": "git",
