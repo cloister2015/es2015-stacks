@@ -1,6 +1,6 @@
 # ES2015 Stacks
-- [ ] npm
-- [ ] babel
+- [] npm
+- [o] babel
 - [ ] webpack
 - [ ] karma
 - [ ] mocha
