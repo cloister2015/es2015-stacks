@@ -1,9 +1,9 @@
 # ES2015 Stacks
-- [] npm
-- [o] babel
-- [ ] webpack
-- [ ] karma
-- [ ] mocha
-- [ ] isparta
+- [x] npm
+- [x] babel
+- [x] webpack
+- [x] karma
+- [x] mocha
+- [x] isparta
 
 [reference](http://huns.me/development/1913)
